@@ -1,0 +1,28 @@
+HTML Tags
+While some tags have a very specific purpose, such as image and video tags, most
+ tags are used to describe the content that they surround, which helps us modify 
+ and style our content later. There are seemingly infinite numbers of tags to 
+ use (many more than we've taught). Knowing when to use each one is based on how
+ you want to describe the content of your HTML. Descriptive, well-chosen tags 
+ are one key to high-quality web development. A full list of available HTML tags 
+ can be found here.
+
+You now know all of the basic elements you need to structure an HTML page and 
+ add different types of content. Very soon you’ll be creating beautiful 
+ websites!
+
+Let’s review what you’ve learned in this lesson:
+
+-Headings and sub-headings, <h1> to <h6> tags, are used to enlarge text.
+-<p>, <span> and <div> tags specify text or blocks.
+-The <em> and <strong> tags are used to emphasize text.
+-Line breaks are created with the <br> tag.
+-Ordered lists (<ol>) are numbered and unordered lists (<ul>) are bulleted.
+-Images (<img>) and videos (<video>) can be added by linking to an existing
+ source.
+-Anchor tags (<a>) are used to link to internal pages, external pages or content
+ on the same page.
+-You can create sections on a webpage and jump to them using <a> tags and 
+ addings ids to the elements you wish to jump to.
+-The nav element contains links to internal pages or content.
+-Take some time to edit the workspace you created and observe how it changes!
