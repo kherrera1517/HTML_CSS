@@ -1,0 +1,2 @@
+F1 -> View in Browser
+Ctrl+Shift+B (does same as above)
